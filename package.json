@@ -78,7 +78,7 @@
     "uglifyjs": "^2.4.10"
   },
   "gitDependencies": {
-     "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git"
+     "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git#es_build"
   }
   
 }
