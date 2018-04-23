@@ -60,7 +60,8 @@
     "ecurve": "^1.0.5",
     "event-emitter": "^0.3.4",
     "immutable": "^3.8.1",
-    "secure-random": "^1.1.1"
+    "secure-random": "^1.1.1",
+    "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git#es_build"
   },
   "devDependencies": {
     "assert": "^1.3.0",
@@ -76,9 +77,6 @@
     "rimraf": "^2.6.1",
     "uglify": "^0.1.5",
     "uglifyjs": "^2.4.10"
-  },
-  "gitDependencies": {
-     "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git#es_build"
   }
   
 }
