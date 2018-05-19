@@ -61,7 +61,7 @@
     "event-emitter": "^0.3.4",
     "immutable": "^3.8.1",
     "secure-random": "^1.1.1",
-    "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git#es_build"
+    "bitsharesjs-ws": "git+https://github.com/u-transnet/bitsharesjs-ws.git"
   },
   "devDependencies": {
     "assert": "^1.3.0",
